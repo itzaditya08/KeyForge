@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Password-Generator
-=======
+
 # KeyForge
 
 **KeyForge** is a simple and secure password generator web application. It generates passwords containing a mix of uppercase and lowercase letters, numbers, and special symbols to ensure maximum security. The project is built using **HTML**, **CSS**, and **JavaScript**.
